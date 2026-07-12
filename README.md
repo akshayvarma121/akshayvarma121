@@ -19,11 +19,11 @@ I build software that ships to real users, not just demos. Java-first foundation
 
 | project | what | stack | status |
 |---|---|---|---|
-| [⚡ StudioPOS](https://kruze.space/products) | Offline-first desktop POS for tailoring studios — zero cloud dependency | Tauri v2 · React · SQLite (WAL) | 🟢 live · paying clients |
-| [🪴 NestOS](https://nestos-kappa.vercel.app) | Productivity + accountability platform — shared workspace, encrypted vault (AES-256-GCM) | React · Vite · Node · PostgreSQL | 🟢 live |
-| [🧵 Darzi](https://darzi-eight.vercel.app) | Multi-tenant boutique ecommerce SaaS — AI chatbot + WhatsApp/Instagram automation | React · Supabase · Gemini · Meta Graph API | 🟢 live · production client |
-| [🗑️ Kachra Seth](https://github.com/akshayvarma121/kachra-seth) | Smart-city waste platform concept — QR bin tracking, route optimization | React · FastAPI · MongoDB | 🏆 3rd · Anveshana 2025 |
-| [🎥 IRIS](https://github.com/akshayvarma121/IRIS) | Fraud-proof attendance system — face verification + liveness detection | FastAPI · React · DeepFace · ChromaDB | 🥈 Runner-Up · Tech Sageathon 2026 |
+| [StudioPOS](https://kruze.space/products) | Offline-first desktop POS for tailoring studios — zero cloud dependency | Tauri v2 · React · SQLite (WAL) | 🟢 live · paying clients |
+| [NestOS](https://nestos-kappa.vercel.app) | Productivity + accountability platform — shared workspace, encrypted vault (AES-256-GCM) | React · Vite · Node · PostgreSQL | 🟢 live |
+| [Darzi](https://darzi-eight.vercel.app) | Multi-tenant boutique ecommerce SaaS — AI chatbot + WhatsApp/Instagram automation | React · Supabase · Gemini · Meta Graph API | 🟢 live · production client |
+| [Kachra Seth](https://github.com/akshayvarma121/kachra-seth) | Smart-city waste platform concept — QR bin tracking, route optimization | React · FastAPI · MongoDB | 🏆 3rd · Anveshana 2025 |
+| [IRIS](https://github.com/akshayvarma121/IRIS) | Fraud-proof attendance system — face verification + liveness detection | FastAPI · React · DeepFace · ChromaDB | 🥈 Runner-Up · Tech Sageathon 2026 |
 
 ---
 
