@@ -20,7 +20,7 @@ I'm looking for **full-stack or Java backend internships and junior developer ro
 
 ---
 
-### experience
+### Experience
 
 | role | where | when | what I worked on |
 |---|---|---|---|
@@ -29,7 +29,7 @@ I'm looking for **full-stack or Java backend internships and junior developer ro
 
 ---
 
-### projects
+### Projects
 
 | project | what it is | stack | status |
 |---|---|---|---|
@@ -41,7 +41,7 @@ I'm looking for **full-stack or Java backend internships and junior developer ro
 
 ---
 
-### stack
+### Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -64,7 +64,7 @@ I'm looking for **full-stack or Java backend internships and junior developer ro
 
 ---
 
-### along the way
+### Along the way
 
 - 🥉 **Two hackathon podiums:** 3rd at Anveshana 2025 (national) and 3rd at a 2026 tech hackathon
 - 🏅 **NPTEL Java Silver Medal**, IIT Kharagpur (2024)
@@ -73,7 +73,7 @@ I'm looking for **full-stack or Java backend internships and junior developer ro
 
 ---
 
-### right now
+### Right now
 
 <table>
   <tr>
